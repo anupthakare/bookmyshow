@@ -2,7 +2,9 @@
 
 A full-stack web application inspired by **BookMyShow**, built as part of a hiring assignment. This project demonstrates end-to-end development with backend APIs, frontend UI/UX, database design, and deployment.
 
+########
 🚀 **Deployed Project:** [Live Demo](https://chiragbms.vercel.app/)
+########
 
 ---
 
@@ -46,7 +48,8 @@ A full-stack web application inspired by **BookMyShow**, built as part of a hiri
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/sharmachirag760/bookMyShow.git
+   //git clone https://github.com/sharmachirag760/bookMyShow.git
+   git clone https://github.com/anupthakare/bookmyshow.git
    cd bookMyShow
    Install dependencies for both frontend & backend:
    ```
